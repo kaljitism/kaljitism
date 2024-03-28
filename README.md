@@ -21,9 +21,9 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img height=200 width=200 src="https://github-readme-stats.vercel.app/api?username=kaljitism&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img height=200 width=200 src="https://github-readme-streak-stats.herokuapp.com/?user=kaljitism&theme=blueberry&hide_border=false&layout=compact"/>
-  <img height=200 width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaljitism&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height=300 width=400 src="https://github-readme-stats.vercel.app/api?username=kaljitism&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height=300 width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=kaljitism&theme=blueberry&hide_border=false&layout=compact"/>
+  <img height=300 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaljitism&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
 ## 🏆 GitHub Trophies
