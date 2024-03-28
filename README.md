@@ -20,6 +20,9 @@
 
 # 📊 GitHub Stats:
 
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
 <p align="center">
   <img height=300 width=300 src="https://github-readme-stats.vercel.app/api?username=kaljitism&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   <img height=300 width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=kaljitism&theme=blueberry&hide_border=false&layout=compact"/>
