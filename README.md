@@ -1,8 +1,8 @@
 ## 💻 Tech Stack:
 
-Languages - ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+Languages - ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 
-Frontend - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
+Frontend - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter)
 
 State Management - ![Provider](https://custom-icon-badges.demolab.com/badge/Provider-E2F4C5.svg?logo=provider) ![Bloc](https://custom-icon-badges.demolab.com/badge/Bloc-496989.svg?logo=bloc) ![Riverpod](https://custom-icon-badges.demolab.com/badge/Riverpod-58A399.svg?logo=riverpod) 
 
@@ -14,21 +14,21 @@ IaaS - ![Compute Engine](https://custom-icon-badges.demolab.com/badge/Compute%20
 
 PaaS - ![Cloud Run](https://custom-icon-badges.demolab.com/badge/Cloud%20Run-836FFF.svg?logo=cloudrun) ![App Engine](https://custom-icon-badges.demolab.com/badge/App%20Engine-E178C5.svg?logo=appengine) 
 
-CaaS - ![Kubernetes](https://img.shields.io/badge/kubernetes-%B6FFFA.svg?style=plastic&logo=kubernetes) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
+CaaS - ![Kubernetes](https://img.shields.io/badge/kubernetes-%B6FFFA.svg?style=plastic&logo=kubernetes) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker) 
 
 FaaS -  ![Cloud Functions](https://custom-icon-badges.demolab.com/badge/Cloud%20Functions-0EA293.svg?logo=cloudfunctions&style=for-the-badge) ![AWS Lambda Badge](https://img.shields.io/badge/AWS%20Lambda-F90?logo=awslambda&logoColor=fff&style=plastic)
 
-Databases - ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge) ![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=fff&style=for-the-badge)  ![Cloud Firestore](https://custom-icon-badges.demolab.com/badge/Cloud%20Firestore-EFBC9B.svg?logo=firestore&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
+Databases - ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge) ![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=fff&style=for-the-badge)  ![Cloud Firestore](https://custom-icon-badges.demolab.com/badge/Cloud%20Firestore-EFBC9B.svg?logo=firestore&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb) 
 
-Data Analysis - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+Data Analysis - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas)
 
-Machine Learning -  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) 
+Machine Learning -  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow) 
 
-Graphic Design - ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+Graphic Design - ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma)
 
 Interactive Animations - ![Rive](https://img.shields.io/badge/Rive-1D1D1D?logo=rive&logoColor=fff&style=for-the-badge)
   
-Task Management - ![Github Projects](https://custom-icon-badges.demolab.com/badge/Github%20Projects-red.svg?logo=projects) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) 
+Task Management - ![Github Projects](https://custom-icon-badges.demolab.com/badge/Github%20Projects-red.svg?logo=projects) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaljitism&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -39,4 +39,4 @@ Task Management - ![Github Projects](https://custom-icon-badges.demolab.com/badg
 ![](https://github-profile-trophy.vercel.app/?username=kaljitism&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kaljitism) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/kaljitism) 
