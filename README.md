@@ -1,18 +1,18 @@
 ## 💻 Tech Stack:
 
-Languages - ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badgec&logo=dart) ![Python](https://img.shields.io/badge/python-3670A0?&style=for-the-badge&logo=python&logoColor=ffdd54) 
+Languages - ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart) ![Python](https://img.shields.io/badge/python-3670A0?&style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 Frontend - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter)
 
-State Management - ![Provider](https://custom-icon-badges.demolab.com/badge/Provider-E2F4C5.svg?logo=provider) ![Bloc](https://custom-icon-badges.demolab.com/badge/Bloc-496989.svg?logo=bloc) ![Riverpod](https://custom-icon-badges.demolab.com/badge/Riverpod-58A399.svg?logo=riverpod) 
+State Management - ![Provider](https://custom-icon-badges.demolab.com/badge/Provider-E2F4C5.svg?logo=provider&style=for-the-badge) ![Bloc](https://custom-icon-badges.demolab.com/badge/Bloc-496989.svg?logo=bloc&style=for-the-badge) ![Riverpod](https://custom-icon-badges.demolab.com/badge/Riverpod-58A399.svg?logo=riverpod&style=for-the-badge) 
 
-Backend - ![Shelf](https://custom-icon-badges.demolab.com/badge/Shelf-ACE2E1.svg?logo=shelf) ![Dart Frog](https://custom-icon-badges.demolab.com/badge/Dart%20Frog-B799FF.svg?logo=frog) ![Serverpod](https://custom-icon-badges.demolab.com/badge/Serverpod-E2F4C5.svg?logo=serverpod)
+Backend - ![Shelf](https://custom-icon-badges.demolab.com/badge/Shelf-ACE2E1.svg?logo=shelf&style=for-the-badge) ![Dart Frog](https://custom-icon-badges.demolab.com/badge/Dart%20Frog-B799FF.svg?logo=frog&style=for-the-badge) ![Serverpod](https://custom-icon-badges.demolab.com/badge/Serverpod-E2F4C5.svg?logo=serverpod&style=for-the-badge)
 
 BAAS - ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS Amplify Badge](https://img.shields.io/badge/AWS%20Amplify-F90?logo=awsamplify&logoColor=fff&style=for-the-badge)
 
-IaaS - ![Compute Engine](https://custom-icon-badges.demolab.com/badge/Compute%20Engine-red.svg?logo=computeengine)  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform)
+IaaS - ![Compute Engine](https://custom-icon-badges.demolab.com/badge/Compute%20Engine-red.svg?logo=computeengine&style=for-the-badge)  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform)
 
-PaaS - ![Cloud Run](https://custom-icon-badges.demolab.com/badge/Cloud%20Run-836FFF.svg?logo=cloudrun) ![App Engine](https://custom-icon-badges.demolab.com/badge/App%20Engine-E178C5.svg?logo=appengine) 
+PaaS - ![Cloud Run](https://custom-icon-badges.demolab.com/badge/Cloud%20Run-836FFF.svg?logo=cloudrun&style=for-the-badge) ![App Engine](https://custom-icon-badges.demolab.com/badge/App%20Engine-E178C5.svg?logo=appengine&style=for-the-badge) 
 
 CaaS - ![Kubernetes](https://img.shields.io/badge/kubernetes-%B6FFFA.svg?style=for-the-badge&logo=kubernetes) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker) 
 
