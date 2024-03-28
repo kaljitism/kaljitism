@@ -8,7 +8,7 @@ BAAS - ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=pla
 
 
 
-IAAS - ![Compute Engine](https://custom-icon-badges.demolab.com/badge/Compute%20Engine.svg?logo=computeengine&logoColor=white)
+IAAS - ![Compute Engine](https://custom-icon-badges.demolab.com/badge/Compute%20Engine-red.svg?logo=computeengine&logoColor=white)
 
 
 
