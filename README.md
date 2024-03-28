@@ -4,6 +4,10 @@ Languages - ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plasti
 
 Frontend - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
 
+State Management - ![Provider](https://custom-icon-badges.demolab.com/badge/Provider-E2F4C5.svg?logo=provider) ![Bloc](https://custom-icon-badges.demolab.com/badge/Bloc-496989.svg?logo=bloc) ![Riverpod](https://custom-icon-badges.demolab.com/badge/Riverpod-58A399.svg?logo=riverpod) 
+
+Backend - ![Shelf](https://custom-icon-badges.demolab.com/badge/Shelf-ACE2E1.svg?logo=shelf) ![Dart Frog](https://custom-icon-badges.demolab.com/badge/Dart%20Frog-B799FF.svg?logo=frog) ![Serverpod](https://custom-icon-badges.demolab.com/badge/Serverpod-E2F4C5.svg?logo=serverpod)
+
 BAAS - ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![AWS Amplify Badge](https://img.shields.io/badge/AWS%20Amplify-F90?logo=awsamplify&logoColor=fff&style=plastic)
 
 IaaS - ![Compute Engine](https://custom-icon-badges.demolab.com/badge/Compute%20Engine-red.svg?logo=computeengine)  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform)
@@ -14,10 +18,17 @@ CaaS - ![Kubernetes](https://img.shields.io/badge/kubernetes-%B6FFFA.svg?style=p
 
 FaaS -  ![Cloud Functions](https://custom-icon-badges.demolab.com/badge/Cloud%20Functions-0EA293.svg?logo=cloudfunctions&style=for-the-badge) ![AWS Lambda Badge](https://img.shields.io/badge/AWS%20Lambda-F90?logo=awslambda&logoColor=fff&style=plastic)
 
-Databases - ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge) ![Realm Badge](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=fff&style=for-the-badge)  ![Cloud Firestore](https://custom-icon-badges.demolab.com/badge/Cloud%20Firestore-EFBC9B.svg?logo=firestore&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
+Databases - ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge) ![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=fff&style=for-the-badge)  ![Cloud Firestore](https://custom-icon-badges.demolab.com/badge/Cloud%20Firestore-EFBC9B.svg?logo=firestore&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
 
-Machine Learning - 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)  ![Realm](https://img.shields.io/badge/Realm-39477F?style=plastic&logo=realm&logoColor=white)  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=plastic)
+Data Analysis - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+
+Machine Learning -  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) 
+
+Graphic Design - ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+
+Interactive Animations - ![Rive](https://img.shields.io/badge/Rive-1D1D1D?logo=rive&logoColor=fff&style=for-the-badge)
+  
+Task Management - ![Github Projects](https://custom-icon-badges.demolab.com/badge/Github%20Projects-red.svg?logo=projects) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaljitism&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
