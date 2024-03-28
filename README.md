@@ -6,7 +6,8 @@ Frontend - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=p
 
 BAAS - ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![AWS Amplify Badge](https://img.shields.io/badge/AWS%20Amplify-F90?logo=awsamplify&logoColor=fff&style=plastic)
 
-IAAS - https://img.shields.io/badge/Compute%20Engine?style=plastic&logo=https%3A%2F%2Fwww.logo.wine%2Fa%2Flogo%2FGoogle_Compute_Engine%2FGoogle_Compute_Engine-Logo.wine.svg
+IAAS - ![Static Badge](https://img.shields.io/badge/Compute%20Engine?style=plastic&logo=https%3A%2F%2Fwww.logo.wine%2Fa%2Flogo%2FGoogle_Compute_Engine%2FGoogle_Compute_Engine-Logo.wine.svg)
+
 
 
 
