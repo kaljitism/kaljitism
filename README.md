@@ -1,4 +1,4 @@
-https://img.shields.io/github/commit-activity/t/kaljitism/:repo
+https://img.shields.io/github/commit-activity/t/kaljitism/
 
 
 ## 💻 Tech Stack:
