@@ -20,14 +20,13 @@
 
 # 📊 GitHub Stats:
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaljitism&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=kaljitism&layout=pie&langs_count=8&card_width=320)
+![Aditya's GitHub Stats]()
+![Language Stats]()
 
 
 <p align="center">
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=kaljitism&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=kaljitism&theme=blueberry&hide_border=false&layout=compact"/>
-  <img width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaljitism&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height=500 src="https://github-readme-stats.vercel.app/api?username=kaljitism&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"/>
+  <img height=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=kaljitism&layout=pie&langs_count=8&card_width=320"/>
 </p>
 
 ## 🏆 GitHub Trophies
