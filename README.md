@@ -1,3 +1,10 @@
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img height=350 src="https://github-readme-stats.vercel.app/api?username=kaljitism&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"/>
+  <img height=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=kaljitism&layout=pie&langs_count=8&card_width=320"/>
+</p>
+
 ## 💻 Tech Stack:
 
 | Technology  	             | Tools   	
@@ -17,13 +24,6 @@
 |**Interactive Animations**  | ![Rive](https://img.shields.io/badge/Rive-1D1D1D?logo=rive&logoColor=fff&style=for-the-badge)
 |**Graphic Design**          |  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma)
 |**Task Management**         |  ![Github Projects](https://custom-icon-badges.demolab.com/badge/Github%20Projects-red.svg?logo=projects) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion) 
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img height=400 src="https://github-readme-stats.vercel.app/api?username=kaljitism&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"/>
-  <img height=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=kaljitism&layout=pie&langs_count=8&card_width=320"/>
-</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kaljitism&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
