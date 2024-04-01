@@ -29,4 +29,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=kaljitism&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 <!--START_SECTION:BLOCKS-->
-<!--END_SECTION:BLOCKS-->
+<!--END_SECTION:AUTHOR_NAME-->
