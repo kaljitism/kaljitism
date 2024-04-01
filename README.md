@@ -28,4 +28,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kaljitism&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kaljitism)]
+<!--START_SECTION:BLOCKS-->
+<!--END_SECTION:BLOCKS-->
