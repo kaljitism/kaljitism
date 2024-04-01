@@ -27,3 +27,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kaljitism&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
