@@ -1,7 +1,5 @@
 ## 📊 GitHub Stats:
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kaljitism?cardType=level-alternate&preferLogin=true)](https://git.io/awesome-stats-card)
-
 <p align="center">
   <img height=350 src="https://github-readme-stats.vercel.app/api?username=kaljitism&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"/>
   <img height=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=kaljitism&layout=pie&langs_count=8&card_width=320"/> 
