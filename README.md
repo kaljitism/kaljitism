@@ -2,7 +2,7 @@
 
 <p align="center">
   <img height=350 src="https://github-readme-stats.vercel.app/api?username=kaljitism&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"/>
-  <img height=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=kaljitism&layout=pie&langs_count=8&card_width=320"/> 
+  // <img height=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=kaljitism&layout=pie&langs_count=8&card_width=320"/> 
 </p>
 
 ## 💻 Tech Stack:
